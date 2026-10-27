@@ -1,0 +1,29 @@
+{
+  "all_albums_url": "https://www.flickr.com/photos/faessenares/albums/",
+  "albums": [
+    {
+      "id": "72177720336280543",
+      "title": "AGRINHO - 2026",
+      "cover_url": "https://live.staticflickr.com/65535/55604573398_cdb8c28e6d.jpg",
+      "photo_count": 1003,
+      "photos_file": "72177720336280543.json",
+      "album_url": "https://www.flickr.com/photos/200000316@N03/albums/72177720336280543/"
+    },
+    {
+      "id": "72177720336202336",
+      "title": "ELAS NO AGRO - MANTENÓPOLIS",
+      "cover_url": "https://live.staticflickr.com/65535/55596253695_6236ff2b03.jpg",
+      "photo_count": 553,
+      "photos_file": "72177720336202336.json",
+      "album_url": "https://www.flickr.com/photos/200000316@N03/albums/72177720336202336/"
+    },
+    {
+      "id": "72177720336175420",
+      "title": "SHM VIANA",
+      "cover_url": "https://live.staticflickr.com/65535/55593310869_112dccf363.jpg",
+      "photo_count": 280,
+      "photos_file": "72177720336175420.json",
+      "album_url": "https://www.flickr.com/photos/200000316@N03/albums/72177720336175420/"
+    }
+  ]
+}
