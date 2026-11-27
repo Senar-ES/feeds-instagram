@@ -2,28 +2,28 @@
   "all_albums_url": "https://www.flickr.com/photos/faessenares/albums/",
   "albums": [
     {
-      "id": "72177720336280543",
-      "title": "AGRINHO - 2026",
-      "cover_url": "https://live.staticflickr.com/65535/55604573398_cdb8c28e6d.jpg",
-      "photo_count": 1003,
-      "photos_file": "72177720336280543.json",
-      "album_url": "https://www.flickr.com/photos/200000316@N03/albums/72177720336280543/"
+      "id": "72177720336970097",
+      "title": "SENARTEC 2026",
+      "cover_url": "https://live.staticflickr.com/65535/55659959867_8989e96d26.jpg",
+      "photo_count": 824,
+      "photos_file": "72177720336970097.json",
+      "album_url": "https://www.flickr.com/photos/200000316@N03/albums/72177720336970097/"
     },
     {
-      "id": "72177720336202336",
-      "title": "ELAS NO AGRO - MANTENÓPOLIS",
-      "cover_url": "https://live.staticflickr.com/65535/55596253695_6236ff2b03.jpg",
-      "photo_count": 553,
-      "photos_file": "72177720336202336.json",
-      "album_url": "https://www.flickr.com/photos/200000316@N03/albums/72177720336202336/"
+      "id": "72177720337080629",
+      "title": "ELAS NO AGRO - SÃO MATEUS",
+      "cover_url": "https://live.staticflickr.com/65535/55655717802_0bd7546464.jpg",
+      "photo_count": 203,
+      "photos_file": "72177720337080629.json",
+      "album_url": "https://www.flickr.com/photos/200000316@N03/albums/72177720337080629/"
     },
     {
-      "id": "72177720336175420",
-      "title": "SHM VIANA",
-      "cover_url": "https://live.staticflickr.com/65535/55593310869_112dccf363.jpg",
-      "photo_count": 280,
-      "photos_file": "72177720336175420.json",
-      "album_url": "https://www.flickr.com/photos/200000316@N03/albums/72177720336175420/"
+      "id": "72177720336930172",
+      "title": "SHM - IBIRAÇU",
+      "cover_url": "https://live.staticflickr.com/65535/55656118669_6a16b66746.jpg",
+      "photo_count": 172,
+      "photos_file": "72177720336930172.json",
+      "album_url": "https://www.flickr.com/photos/200000316@N03/albums/72177720336930172/"
     }
   ]
 }
